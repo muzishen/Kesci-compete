@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="580d8d1b-2965-4e30-9b50-d03722c855b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/merge.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/merge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="11" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/kesci/provide_banks_with_precision_marketing_solutions/best.ipynb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1260" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Method1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2385">
+              <caret line="159" column="19" selection-start-line="159" selection-start-column="19" selection-end-line="159" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>train_y1</find>
+      <find>get_new_columns</find>
+      <find>df_train_columns</find>
+      <find>train_iloc</find>
+      <find>test_stack</find>
+      <find>trn_data</find>
+      <find>Y_test</find>
+      <find>y_pred</find>
+      <find>pred_cv</find>
+      <find>df</find>
+      <find>ll</find>
+      <find>INPUT_PATH</find>
+      <find>KFold</find>
+      <find>kf</find>
+      <find>get_stacking</find>
+      <find>lgb</find>
+      <find>job</find>
+      <find>dense_feature</find>
+      <find>sparse_feature</find>
+      <find>label</find>
+      <find>train.shape[0]</find>
+      <find>test_data</find>
+      <find>train_y</find>
+      <find>res</find>
+      <find>test</find>
+      <find>ID</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kesci" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Resnet50.py" />
+        <option value="$PROJECT_DIR$/countvectororizer.py" />
+        <option value="$PROJECT_DIR$/V2.py" />
+        <option value="$PROJECT_DIR$/V3.py" />
+        <option value="$PROJECT_DIR$/Random_forest.py" />
+        <option value="$PROJECT_DIR$/lightGBM.py" />
+        <option value="$PROJECT_DIR$/stacking/stacking/base.py" />
+        <option value="$PROJECT_DIR$/stacking/examples/binary_class/scripts/binary.py" />
+        <option value="$PROJECT_DIR$/stacking/stacking/__init__.py" />
+        <option value="$PROJECT_DIR$/stacking/xgb-lgb1-lgb2-svm.py" />
+        <option value="$PROJECT_DIR$/stacking.py" />
+        <option value="$PROJECT_DIR$/linearSVM.py" />
+        <option value="$PROJECT_DIR$/Lda.py" />
+        <option value="$PROJECT_DIR$/xgb.py" />
+        <option value="$PROJECT_DIR$/lgb.py" />
+        <option value="$PROJECT_DIR$/LGBM.py" />
+        <option value="$PROJECT_DIR$/Feature3_XGB.py" />
+        <option value="$PROJECT_DIR$/Feature2_xgb.py" />
+        <option value="$PROJECT_DIR$/Feature3_LGB.py" />
+        <option value="$PROJECT_DIR$/Feature2_LGB.py" />
+        <option value="$PROJECT_DIR$/F1.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/Normal.py" />
+        <option value="$PROJECT_DIR$/Feature1_LGB.py" />
+        <option value="$PROJECT_DIR$/Method1.py" />
+        <option value="$PROJECT_DIR$/merge.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/../../Data_analysis/.idea/Data_analysis.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="81" />
+    <option name="y" value="24" />
+    <option name="width" value="1281" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kesci_Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kesci_Bank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kesci_Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kesci_Bank" type="462c0819:PsiDirectoryNode" />
+              <item name="kesci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kesci_Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kesci_Bank" type="462c0819:PsiDirectoryNode" />
+              <item name="kesci" type="462c0819:PsiDirectoryNode" />
+              <item name="provide_banks_with_precision_marketing_solutions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.merge">
+    <configuration name="Feature1_LGB" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kesci_Bank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Method1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kesci_Bank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Method1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lgb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kesci_Bank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kesci_Bank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xgb" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kesci_Bank" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature2_xgb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.merge" />
+        <item itemvalue="Python.Method1" />
+        <item itemvalue="Python.lgb" />
+        <item itemvalue="Python.Feature1_LGB" />
+        <item itemvalue="Python.xgb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580d8d1b-2965-4e30-9b50-d03722c855b8" name="Default Changelist" comment="" />
+      <created>1561636711930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561636711930</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-4" width="1303" height="773" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24467245" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.2661157" />
+      <window_info anchor="bottom" id="TODO" order="2" weight="0.3289256" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.31861198" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962963" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.3289256" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3289256" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/local/app/anaconda3/envs/py36/lib/python3.6/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5066" selection-start-line="5066" selection-end-line="5066" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bank-full.csv" />
+    <entry file="file://$PROJECT_DIR$/result.csv" />
+    <entry file="file://$PROJECT_DIR$/Resnet50.py" />
+    <entry file="file:///usr/local/app/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/linear_model/logistic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="431" selection-start-line="431" selection-end-line="431" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result.csv" />
+    <entry file="file://$PROJECT_DIR$/LR_linearSVM.csv" />
+    <entry file="file://$PROJECT_DIR$/LR.csv" />
+    <entry file="file://$PROJECT_DIR$/linearSVM.csv" />
+    <entry file="file://$PROJECT_DIR$/lgbm.csv" />
+    <entry file="file://$PROJECT_DIR$/merge/lgb_0.9398709111255773.csv" />
+    <entry file="file://$PROJECT_DIR$/merge/lgb.csv" />
+    <entry file="file://$PROJECT_DIR$/merge/LGBM.csv" />
+    <entry file="file://$PROJECT_DIR$/merge/xgb.csv" />
+    <entry file="file://$PROJECT_DIR$/final_voting.csv" />
+    <entry file="file://$PROJECT_DIR$/lgb_xgb_stacking.csv" />
+    <entry file="file://$PROJECT_DIR$/stacking/stacking.png" />
+    <entry file="file://$PROJECT_DIR$/stacking/stacking/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/lgb_xgb_stacking2.csv" />
+    <entry file="file:///usr/local/app/anaconda3/envs/py36/lib/python3.6/site-packages/pandas/core/groupby/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="1314" selection-start-line="1314" selection-end-line="1314" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stacking/examples/binary_class/run.sh" />
+    <entry file="file://$PROJECT_DIR$/stacking/examples/binary_class/scripts/binary.py" />
+    <entry file="file://$PROJECT_DIR$/stacking/stacking/base.py" />
+    <entry file="file:///usr/local/app/anaconda3/envs/py36/lib/python3.6/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="285" selection-start-line="285" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feature_importance.csv" />
+    <entry file="file:///usr/local/app/anaconda3/envs/py36/lib/python3.6/site-packages/pandas/core/indexes/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="2656" selection-start-line="2656" selection-end-line="2656" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LGBM.csv" />
+    <entry file="file://$PROJECT_DIR$/stacking.py" />
+    <entry file="file://$PROJECT_DIR$/merge/xgb9403.csv" />
+    <entry file="file://$PROJECT_DIR$/Lda.py" />
+    <entry file="file://$PROJECT_DIR$/feature.csv" />
+    <entry file="file://$PROJECT_DIR$/stacking/xgb-lgb1-lgb2-svm.py" />
+    <entry file="file://$PROJECT_DIR$/Feature2_xgb.py" />
+    <entry file="file://$PROJECT_DIR$/Feature-3.py" />
+    <entry file="file://$PROJECT_DIR$/F1.py" />
+    <entry file="file://$PROJECT_DIR$/countvectororizer.py" />
+    <entry file="file://$PROJECT_DIR$/F4.py" />
+    <entry file="file://$PROJECT_DIR$/F3.py" />
+    <entry file="file://$PROJECT_DIR$/F2.py" />
+    <entry file="file://$PROJECT_DIR$/merge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Method1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2385">
+          <caret line="159" column="19" selection-start-line="159" selection-start-column="19" selection-end-line="159" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kesci/provide_banks_with_precision_marketing_solutions/best.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+  </component>
+</project>
